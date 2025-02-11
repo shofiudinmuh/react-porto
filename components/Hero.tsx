@@ -27,7 +27,7 @@ const Hero = () => {
                         />
 
                         <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                            Hi! I&apos;m Muhammad Shofiudiin, Tech Enthusiast base in Surabaya
+                            Hi! I&apos;m Muhammad Shofiudin, Tech Enthusiast base in Surabaya
                         </p>
 
                         <a href='#about'>
